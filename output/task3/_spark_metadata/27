@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Goutam-P/output/task3/part-00000-654ce129-6e16-47e5-b5f8-264a07b9a193-c000.csv","size":45,"isDir":false,"modificationTime":1743530588909,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Goutam-P/output/task3/part-00031-577a9b97-401d-4f31-a56c-7166ed94550c-c000.csv","size":113,"isDir":false,"modificationTime":1743530590115,"blockReplication":1,"blockSize":33554432,"action":"add"}
